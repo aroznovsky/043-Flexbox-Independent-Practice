@@ -1,0 +1,51 @@
+.menu1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: goldenrod;
+    margin: 12px;
+    border: ridge 22px lightgray;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.item1 {
+    margin: 10px;
+    padding: 12px;
+    border: inset gray;
+    background-color: white;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    border: double 6px red;
+    margin: 12px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.item2 {
+    margin: 15px;
+    padding: 14px;
+    border: dashed 1px white;
+}
+
+.menu3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: purple;
+    color: pink;
+    border: solid 20px black;
+    padding: 12px;
+    font-family: 'Parisienne', cursive;
+}
+
+.item3 {
+    margin: 6px;
+    padding: 8px;
+    border: inset 10px pink;
+}
+
+h2{
+    font-family: 'Antic Slab', serif;
+}
